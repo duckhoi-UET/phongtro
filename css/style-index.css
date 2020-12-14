@@ -627,6 +627,12 @@ h2 {
     border-bottom: 1px solid #e6e6e6;
 }
 
+#bottom .box.box-province .item:last-child, #bottom .box.box-form_type .item:last-child {
+    border: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
 .py-10 {
     padding-top: 10px;
     padding-bottom: 10px;
