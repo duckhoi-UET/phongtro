@@ -529,3 +529,8 @@ i.ico {
     font-style: normal;
 }
 
+.box.box-province .item:last-child, #bottom .box.box-form_type .item:last-child {
+    border: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
