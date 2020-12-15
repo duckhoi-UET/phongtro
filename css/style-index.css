@@ -262,6 +262,11 @@ header .block-search .block-inner .box-search #top-search .search-form-label .ic
 
 .hostel.hostel-list .item.vip .border {
     border: 1px solid rgba(241, 51, 64, 0.5);
+    
+}
+
+.hostel.hostel-list .item.vip .border:hover {
+    box-shadow: 0 0 20px -10px #9c9a9a;
 }
 
 .hostel.hostel-list .item .border {
@@ -488,6 +493,10 @@ dl dt {
 
 .hostel.hostel-list .item.hot .border {
     border: 1px solid rgba(255, 121, 48, 0.5);
+}
+
+.hostel.hostel-list .item.hot .border:hover {
+    box-shadow: 0 0 20px -10px #9c9a9a;
 }
 
 .hostel.hostel-list .item.column .border {
